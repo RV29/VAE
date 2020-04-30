@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from numba import jit, njit
 
-from util_funcs import sigmoid, sigmoid_gradient, tanh, tanh_gradient, get_Batch
+from .util_funcs import sigmoid, sigmoid_gradient, tanh, tanh_gradient, get_Batch
 
 
 def init_random(dx, dm, dz, option = "xavier"):
