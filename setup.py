@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="VAE-RV29", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Christine Shen, Vidvat Ramachandran",
     author_email="vidvatrmc@gmail.com",
     description="A simple implementation of Variational Autoencoder for MNIST dataset",
