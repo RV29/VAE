@@ -7,7 +7,7 @@ setuptools.setup(
     name="VAE-RV29", # Replace with your own username
     version="0.0.1",
     author="Christine Shen, Vidvat Ramachandran",
-    author_email="vidvatrmc@gmai.com.com",
+    author_email="vidvatrmc@gmail.com",
     description="A simple implementation of Variational Autoencoder for MNIST dataset",
     long_description=long_description,
     long_description_content_type="text/markdown",
