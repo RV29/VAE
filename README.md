@@ -3,7 +3,7 @@
 
 This project is a barebones implementation of the Variational Autoencoder as described in the paper Auto-Encoding Variational Bayes by Kingma and Welling (2013), created as partial fulfillment towards the course STA663. This implementation is strictly for the MNIST data set and data like it. 
 
-Exlpore the demo file to see example of usage.
+Explore the demo file to see example of usage.
 
 ## Installation
 
