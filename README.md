@@ -1,6 +1,7 @@
 # Variational Autoencoder
+- Implemented by Vidvat Ramachandran & YueMing Shen
 
-This project is a barbones implementation of the Variational Autoencoder as described in the paper Auto-Encoding Variational Bayes by Kingma and Welling (2013). This implementation is strictly for the MNIST data set and data like it. 
+This project is a barebones implementation of the Variational Autoencoder as described in the paper Auto-Encoding Variational Bayes by Kingma and Welling (2013). This implementation is strictly for the MNIST data set and data like it. 
 
 Exlpore the demo file to see example of usage.
 
